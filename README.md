@@ -39,5 +39,12 @@ The best model for predicting CO2 emissions XGBoost and the variable that most i
 
 The ENERGY STAR Score, even if it is not the variable that impacts the model the most, allows to obtain better results. So, it is necessary to keep calculating it. However, the calculation of the ENERGY STAR Score is based on several characteristics of the building, such as size, number of occupants/workers, number of heating or cooling equipment, etc. By having this data and using it for modeling, perhaps it would be possible to obtain better scores without directly using the ENERGY STAR Score.
 
+## Aquired skills
+-	Train a supervised learning model adapted to the business problem
+-	Tune the hyperparameters of a supervised learning algorithm in order to improve it
+-	Transform relevant variables of a supervised learning model
+-	Evaluate the performance of a supervised learning model
+
+
 
 
